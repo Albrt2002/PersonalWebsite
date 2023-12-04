@@ -3,8 +3,6 @@
 
 <head>
 
-<title> Bernardo Personal Website </title>
-
 </head>
 		
 <body style="background-color:lightblue">
