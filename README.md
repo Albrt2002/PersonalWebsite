@@ -5,7 +5,7 @@
 
 </head>
 		
-<body style="background-color:red">
+<body style="background-color:lightblue">
 
 <h1> <b> Albert Bernardo </b></h1>
 <pre>
